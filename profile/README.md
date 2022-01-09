@@ -1,3 +1,9 @@
+# Rack::SslEnforcer
+
+https://rubygems.org/gems/rack-ssl-enforcer - No release since 0.2.9 (Jul 22, 2015)
+
+See https://github.com/spinels/rack-ssl-enforcer
+
 # Sinatra
 
 https://rubygems.org/gems/sinatra - No release since 2.1.0 (Sep 04, 2020)
