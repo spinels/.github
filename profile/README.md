@@ -17,6 +17,12 @@ Fixes waiting for a release:
   * `Delegator` fix: https://github.com/sinatra/sinatra/pull/1684
   * `use` with keyword arguments: https://github.com/sinatra/sinatra/pull/1701
 
+# Rack::Protection
+
+https://rubygems.org/gems/rack-protection - No release since 2.1.0 (Sep 04, 2020)
+
+* Be able to enable `EscapedParams` from Sinatra https://github.com/sinatra/sinatra/pull/1632
+
 # Mustermann
 
 https://rubygems.org/gems/mustermann - No release since 1.1.1 (Jan 03, 2020)
