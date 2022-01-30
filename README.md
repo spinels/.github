@@ -28,3 +28,10 @@ https://rubygems.org/gems/rack-protection - No release since 2.1.0 (Sep 04, 2020
 https://rubygems.org/gems/mustermann - No release since 1.1.1 (Jan 03, 2020)
 
 * `Support Ruby 3.0` https://github.com/sinatra/mustermann/issues/114
+
+## DONE
+
+### Rack::SslEnforcer
+
+* Modern CI
+* Merged `Make middleware thread-safe` PR: https://github.com/tobmatth/rack-ssl-enforcer/pull/105
