@@ -4,6 +4,13 @@ Resurrecting old gems.
 
 ## TODO
 
+### `rack-flash3`
+
+Last release was `1.0.5 - September 03, 2013`
+
+* https://rubygems.org/gems/rack-flash3
+* https://github.com/treeder/rack-flash
+
 ### Sinatra
 
 https://rubygems.org/gems/sinatra - No release since 2.1.0 (Sep 04, 2020)
