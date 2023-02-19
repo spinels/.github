@@ -4,7 +4,17 @@ Resurrecting old gems.
 
 ## TODO
 
-### `rack-flash3`
+`sprockets-helpers`
+
+* https://rubygems.org/gems/sprockets-helpers
+* https://github.com/petebrowne/sprockets-helpers
+
+`sinatra-asset-pipeline`
+
+* https://rubygems.org/gems/sinatra-asset-pipeline
+* https://github.com/kalasjocke/sinatra-asset-pipeline
+
+`rack-flash3`
 
 Last release was `1.0.5 - September 03, 2013`
 
@@ -13,11 +23,11 @@ Last release was `1.0.5 - September 03, 2013`
 
 ## DONE
 
-## foreman
+`foreman` → [`overman`](https://github.com/spinels/overman)
 
 * Merged `Run processes in new process groups, kill process group instead of process` https://github.com/ddollar/foreman/pull/780
 
-### Rack::SslEnforcer
+`rack-ssl-enforcer` → [`spinels-rack-ssl-enforcer`](https://github.com/spinels/rack-ssl-enforcer)
 
 * Modern CI
 * Merged `Make middleware thread-safe` PR: https://github.com/tobmatth/rack-ssl-enforcer/pull/105
