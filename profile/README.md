@@ -12,4 +12,9 @@ Resurrecting old gems.
 * Merged [`Make middleware thread-safe`](https://github.com/spinels/rack-ssl-enforcer/pull/2)
 * RubyGems: https://rubygems.org/gems/spinels-rack-ssl-enforcer
 
-There is more to do, see https://github.com/spinels/.github#todo
+`redd` -> [spinels-redd](https://github.com/spinels/redd)
+
+* RubyGems: https://rubygems.org/gems/spinels-redd
+
+
+**There is more to do, see https://github.com/spinels/.github#todo**
