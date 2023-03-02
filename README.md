@@ -4,6 +4,11 @@ Resurrecting old gems.
 
 ## TODO
 
+`racksh`
+
+* https://rubygems.org/gems/racksh
+* https://github.com/sickill/racksh
+
 `sprockets-helpers`
 
 * https://rubygems.org/gems/sprockets-helpers
