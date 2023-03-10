@@ -4,11 +4,6 @@ Resurrecting old gems.
 
 ## TODO
 
-`racksh`
-
-* https://rubygems.org/gems/racksh
-* https://github.com/sickill/racksh
-
 `sprockets-helpers`
 
 * https://rubygems.org/gems/sprockets-helpers
@@ -36,3 +31,7 @@ Last release was `1.0.5 - September 03, 2013`
 
 * Modern CI
 * Merged `Make middleware thread-safe` PR: https://github.com/tobmatth/rack-ssl-enforcer/pull/105
+
+`racksh` → [`spinels-racksh`](https://github.com/spinels/racksh)
+
+* Merged `use File.exist? because Ruby 3.2 does not have File.exists?` https://github.com/sickill/racksh/pull/15
