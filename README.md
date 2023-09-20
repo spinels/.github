@@ -4,6 +4,14 @@ Resurrecting old gems.
 
 ## TODO
 
+`rack-timeout`
+
+* https://rubygems.org/gems/rack-timeout
+* https://github.com/zombocom/rack-timeout
+  * many good open PRs, and some closed ones:
+  * https://github.com/zombocom/rack-timeout/pull/201
+  * plus https://github.com/zombocom/rack-timeout/pull/165
+
 `sprockets-helpers`
 
 * https://rubygems.org/gems/sprockets-helpers
