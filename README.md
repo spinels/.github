@@ -4,6 +4,17 @@ Resurrecting old gems.
 
 ## TODO
 
+`overman`
+
+* https://github.com/spinels/overman/issues/2 (still not all processes are killed)
+
+`rerun`
+
+* https://rubygems.org/gems/rerun
+* https://github.com/alexch/rerun
+  * https://github.com/spinels/rerun/issues/1
+  * https://github.com/alexch/rerun/issues/145 (no recent release with some fixes)
+
 `rack-timeout`
 
 * https://rubygems.org/gems/rack-timeout
