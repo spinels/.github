@@ -44,6 +44,7 @@ Last release was `1.0.5 - September 03, 2013`
 
 `foreman` → [`overman`](https://github.com/spinels/overman)
 
+* Merged `Avoid using ostruct as it no longer will ship with Ruby 3.5.0` https://github.com/ddollar/foreman/pull/807
 * Merged `Run processes in new process groups, kill process group instead of process` https://github.com/ddollar/foreman/pull/780
 
 `rack-ssl-enforcer` → [`spinels-rack-ssl-enforcer`](https://github.com/spinels/rack-ssl-enforcer)
